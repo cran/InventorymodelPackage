@@ -1,4 +1,4 @@
-90b63553a709edd635c44d21aeaae9aa *DESCRIPTION
+bd0fd68e401bcc2df9ac26c30b024523 *DESCRIPTION
 cb0f7ee727950f5481bc76207a99f446 *NAMESPACE
 6480105cff17c8150bbdbeff68d242cc *R/EOQ.R
 30f93a569df13f7bfba9433f4b1af934 *R/EOQcoo.R
@@ -25,7 +25,7 @@ fbfabc2922e1788c885a2f318f45424a *R/vShapley.R
 06abeb05938ced487413d359bf7f59e0 *man/EOQcoo.Rd
 8159af0b535a6f293d1451a01fdfb8d0 *man/EPQ.Rd
 6159aacf57c2cda5bdce3f736b3c8dd1 *man/EPQcoo.Rd
-10b64dafa30c6bbeaa12f0579718b691 *man/Inventorymodel-package.Rd
+14cb7f8245dc18385bf896a716617a0f *man/Inventorymodel-package.Rd
 4470fc573d778d6c6dedfeeb29969e61 *man/Inventorymodel.Rd
 158c826317d9ef448f8f8fbf83facf2f *man/SOC.Rd
 c00cfa68c64f1c251364058e3de4db2b *man/STI.Rd

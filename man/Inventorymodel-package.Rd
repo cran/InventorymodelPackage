@@ -28,23 +28,23 @@ Saavedra-Nieves, Alejandro
 Maintainer: Alejandro Saavedra-Nieves <alejandro.saavedra.nieves@gmail.com>
 }
 \references{
-P. Borm, I. García-Jurado, A. Meca (2003) Cooperation and competition in inventory games, \emph{Mathematical Methods of Operations Research}, \bold{57}, 481--493.
+M.G. Fiestras-Janeiro, I. García--Jurado, A. Meca, M. A. Mosquera (2011). Cooperative game theory and inventory management. \emph{European Journal of Operational Research}, \bold{210}(3), 459--466.
 
-P. Borm, I. García-Jurado, A. Meca, J. Timmer (1999) Inventory games, Discussion paper, 9953, Tilburg University.
+M.G. Fiestras-Janeiro, I. García-Jurado, A. Meca, M. A. Mosquera (2012). Cost allocation in inventory transportation systems. \emph{Top}, \bold{20}(2), 397--410.
 
-P. Borm, I. García-Jurado, A. Meca, J. Timmer (2004) Inventory games, \emph{European Journal of Operational Research}, \bold{156}, 127--139.
+M.G.~ Fiestras-Janeiro, I.~ Garc\'ia-Jurado, A.~Meca, M. A. ~Mosquera (2013a). Centralized inventory in a farming community. \emph{Journal of Business Economics}, 1--15.
 
-M.G. Fiestras-Janeiro, I. García--Jurado, A. Meca, M. A. Mosquera (2011) Cooperative game theory and inventory management, \emph{European Journal of Operational Research}, \bold{210}, 459--466.
+M.G. Fiestras-Janeiro, I. García-Jurado, A. Meca, M.A. Mosquera (2013b). Cooperation on capacitated inventory situations with fixed holding costs. \emph{Pendiente de publicación.}
+
+A. Meca (2007). A core-allocation family for generalized holding cost games. \emph{Mathematical Methods of Operation Research}, \bold{65}, 499--517.
+
+A. Meca, I. García-Jurado, P. Borm (2003). Cooperation and competition in inventory games. \emph{Mathematical Methods of Operations Research}, \bold{57}(3), 481--493.
+
+A. Meca, J. Timmer, I. García-Jurado, P. Borm  (1999). Inventory games. Discussion paper, 9953, Tilburg University.
+
+A. Meca, J. Timmer, I. García-Jurado, P. Borm (2004). Inventory games. \emph{European Journal of Operational Research}, \bold{156}(1), 127--139.
  
-M.G. Fiestras-Janeiro, I. García-Jurado, A. Meca, M. A. Mosquera (2012) Cost allocation in inventory transportation systems,\emph{Top}, \bold{20}, 397--410.
-
-M.G. Fiestras-Janeiro, I. García-Jurado, A. Meca, M. A. Mosquera (2013) Centralized inventory in a farming community, http://ssrn.com/abstract=2302588.
-
-M.G. Fiestras-Janeiro, I. García-Jurado, A. Meca, M.A. Mosquera (2013) Cooperation on capacitated inventory situations with fixed holding costs.
-
-M.G. Fiestras-Janeiro, I. García-Jurado, M.A. Mosquera (2008) A note on coalitional manipulation and centralized inventory management, \emph{Annals of Operations Research}, \bold{158}, 183--188.
-
-A. Meca (2007) A core-allocation family for generalized holding cost games, \emph{Mathematical Methods of Operation Research}, \bold{65}, 499--517.
+M.A. Mosquera, I. García-Jurado, M.G. Fiestras-Janeiro (2008). A note on coalitional manipulation and centralized inventory management. \emph{Annals of Operations Research}, \bold{158}(1). 183--188.
 }
 
 
