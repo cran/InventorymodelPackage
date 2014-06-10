@@ -1,4 +1,4 @@
-ba57e74a5d25f3c9abd05f6e35d82f7e *DESCRIPTION
+90b63553a709edd635c44d21aeaae9aa *DESCRIPTION
 cb0f7ee727950f5481bc76207a99f446 *NAMESPACE
 6480105cff17c8150bbdbeff68d242cc *R/EOQ.R
 30f93a569df13f7bfba9433f4b1af934 *R/EOQcoo.R
@@ -16,8 +16,8 @@ ebb51f7d864d05bfb0ae55a084a432f5 *R/linerule.R
 ca3690b44e7b9c4b60900ed557d13af2 *R/linerulecoalitional.R
 93db08232dcf49a5f61e5c98c50ac2bb *R/mct.R
 6868ae7a6044294a7e85134440a9127c *R/mfoc.R
-5e12bc466e88ddfb973ec3b75a02e5c1 *R/mwhc.R
-5548c30236fbc49bbe6ef11da2740cb3 *R/mwhc2c.R
+f4f549fb7fdb3b3f17671c0a074cc72c *R/mwhc.R
+6c388e8cf18ef1464555a04121bb6da8 *R/mwhc2c.R
 8e4ca95cd06a6de164ba5df089694fa3 *R/shapley_mfoc.R
 417c0c49ae7bb25ec7a72316e8a3edc6 *R/twolines.R
 fbfabc2922e1788c885a2f318f45424a *R/vShapley.R
@@ -38,8 +38,8 @@ b96d3424daec3d4f785cc2ea9cd970df *man/inventorygames.Rd
 5911fb3acfe7f5cbb42416bab660dbf5 *man/linerulecoalitional.Rd
 b6e9cd7b56750ca8c095fb3078eabd1f *man/mct.Rd
 66c38ec8a91feb33e46ff34263ccdd42 *man/mfoc.Rd
-30dcea7084fefd4b6a2dda0514126f52 *man/mwhc.Rd
-ac02467ef66efb907b82a243d67b27af *man/mwhc2c.Rd
+d3e08e42837a6da390ae653ec86126df *man/mwhc.Rd
+41a1a06803dec8a5d5c9a05f477087e8 *man/mwhc2c.Rd
 1a7c587b86b2f47efde32334c0452e05 *man/shapley_mfoc.Rd
 70e49e2c4192642d48c27728e4676f47 *man/twolines.Rd
 dd1916c712f192c6d08f4b98e06a7bb1 *man/vShapley.Rd

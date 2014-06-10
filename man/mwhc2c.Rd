@@ -3,7 +3,9 @@
 \title{
 MWHC2C}
 \description{
-This function obtains the associated costs in a model without holding costs and with two differents cost of product.
+This function obtains the associated costs in a model without holding costs and with two differents cost of product. Demands 
+and capacities must be introduced in the order indicated by the ratios \code{d/K}. In other case, 
+agents change their position.
 }
 \usage{
 mwhc2c(n=NA,a=NA,b=NA,d=NA,K=NA,c1=NA,c2=NA,cooperation=c(0,1),allocation=c(0,1))

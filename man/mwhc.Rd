@@ -3,7 +3,9 @@
 \title{
 MWHC}
 \description{
-This function obtains the associated costs in a model without holding costs.
+This function obtains the associated costs in a model without holding costs. Demands 
+and capacities must be introduced in the order indicated by the ratios \code{d/K}. In other case, 
+agents change their position.
 }
 \usage{
 mwhc(n = NA, a = NA, b = NA, d = NA, K = NA, cooperation = c(0, 1), 

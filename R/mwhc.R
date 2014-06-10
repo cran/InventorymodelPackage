@@ -1,6 +1,11 @@
 mwhc <-
 function(n=NA,a=NA,b=NA,d=NA,K=NA,cooperation=c(0,1),allocation=c(0,1)){
-if (sum(sort(d/K)==(d/K))!=n) {print("Error: no ordenado d/K"); break}
+if (sum(sort(d/K)==(d/K))!=n) {
+print("Warning: agents, d and K are not in the order indicated by the ratios d/K.")
+d0K0<-d/K
+d<-d[order(d0K0)]
+K<-K[order(d0K0)]
+}
 if (cooperation==0){
 pedido<-sqrt(b*d/(2*a+b*K^2/d))
 costes<-sqrt(b*d*(2*a+b*K^2/d))-b*K
